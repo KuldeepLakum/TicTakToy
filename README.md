@@ -1,5 +1,6 @@
 # TicTakToy This project is great for beginners learning front-end development or for developers looking to expand their portfolio with a fun, engaging project. Contributions and feedback are always welcome!
-[TicTakToy](https://kuldeeplakum.github.io/TicTakToy/ "This is a tooltip")
+[TicTakToy](https://kuldeeplakum.github.io/TicTakToy/ "Click to Play Game")
+
 Players alternate turns placing their symbol (X or O) on a 3x3 grid. Once a box is clicked, it’s disabled, ensuring fair play.
 ![Image](https://github.com/user-attachments/assets/4fd176ae-3ba0-4c82-a897-a01d4c39854a)
 
