@@ -29,10 +29,10 @@ boxes.forEach((box)=>{
         // console.log("btn was clicked");
         // box.innerHTML = "X";
         if(turnO){
-            box.innerHTML = "O"
+            box.innerHTML = "❤️"
             turnO = false;
         } else{
-            box.innerHTML = "X"
+            box.innerHTML = "🏹"
             turnO = true;
         }
         box.disabled = true;
